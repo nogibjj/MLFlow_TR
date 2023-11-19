@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/MLFlow_TR/MLFlow_TR/mlruns/0/86b271c96a144346876becfd29e9e0e3/artifacts
+end_time: 1700416653424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86b271c96a144346876becfd29e9e0e3
+run_name: wise-bird-856
+run_uuid: 86b271c96a144346876becfd29e9e0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416651876
+status: 3
+tags: []
+user_id: runner
